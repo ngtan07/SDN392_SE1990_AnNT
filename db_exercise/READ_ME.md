@@ -1,0 +1,5 @@
+![1. Liệt kê tất cả sinh viên trong collection Students.](image.png)
+![2. Liệt kê sinh viên nữ. ](image-1.png)
+![3.	Liệt kê sinh viên nam. ](image-2.png)
+![4.	Liệt kê sinh viên ngành Information Technology](image-3.png)
+![5.	Liệt kê sinh viên ngành Computer Science. ](image-4.png)
